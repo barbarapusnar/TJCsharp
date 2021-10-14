@@ -1,0 +1,36 @@
+E:\Barbara\Zbirke podatkov 2\KrizciKrozci\KrizciKrozci\bin\Debug\net5.0-windows\KrizciKrozci.exe
+E:\Barbara\Zbirke podatkov 2\KrizciKrozci\KrizciKrozci\bin\Debug\net5.0-windows\KrizciKrozci.deps.json
+E:\Barbara\Zbirke podatkov 2\KrizciKrozci\KrizciKrozci\bin\Debug\net5.0-windows\KrizciKrozci.runtimeconfig.json
+E:\Barbara\Zbirke podatkov 2\KrizciKrozci\KrizciKrozci\bin\Debug\net5.0-windows\KrizciKrozci.runtimeconfig.dev.json
+E:\Barbara\Zbirke podatkov 2\KrizciKrozci\KrizciKrozci\bin\Debug\net5.0-windows\KrizciKrozci.dll
+E:\Barbara\Zbirke podatkov 2\KrizciKrozci\KrizciKrozci\bin\Debug\net5.0-windows\ref\KrizciKrozci.dll
+E:\Barbara\Zbirke podatkov 2\KrizciKrozci\KrizciKrozci\bin\Debug\net5.0-windows\KrizciKrozci.pdb
+E:\Barbara\Zbirke podatkov 2\KrizciKrozci\KrizciKrozci\obj\Debug\net5.0-windows\KrizciKrozci.csproj.AssemblyReference.cache
+E:\Barbara\Zbirke podatkov 2\KrizciKrozci\KrizciKrozci\obj\Debug\net5.0-windows\KrizciKrozci.Form1.resources
+E:\Barbara\Zbirke podatkov 2\KrizciKrozci\KrizciKrozci\obj\Debug\net5.0-windows\KrizciKrozci.csproj.GenerateResource.cache
+E:\Barbara\Zbirke podatkov 2\KrizciKrozci\KrizciKrozci\obj\Debug\net5.0-windows\KrizciKrozci.GeneratedMSBuildEditorConfig.editorconfig
+E:\Barbara\Zbirke podatkov 2\KrizciKrozci\KrizciKrozci\obj\Debug\net5.0-windows\KrizciKrozci.AssemblyInfoInputs.cache
+E:\Barbara\Zbirke podatkov 2\KrizciKrozci\KrizciKrozci\obj\Debug\net5.0-windows\KrizciKrozci.AssemblyInfo.cs
+E:\Barbara\Zbirke podatkov 2\KrizciKrozci\KrizciKrozci\obj\Debug\net5.0-windows\KrizciKrozci.csproj.CoreCompileInputs.cache
+E:\Barbara\Zbirke podatkov 2\KrizciKrozci\KrizciKrozci\obj\Debug\net5.0-windows\KrizciKrozci.dll
+E:\Barbara\Zbirke podatkov 2\KrizciKrozci\KrizciKrozci\obj\Debug\net5.0-windows\ref\KrizciKrozci.dll
+E:\Barbara\Zbirke podatkov 2\KrizciKrozci\KrizciKrozci\obj\Debug\net5.0-windows\KrizciKrozci.pdb
+E:\Barbara\Zbirke podatkov 2\KrizciKrozci\KrizciKrozci\obj\Debug\net5.0-windows\KrizciKrozci.genruntimeconfig.cache
+E:\TalentJourney\KrizciKrozci\KrizciKrozci\bin\Debug\net5.0-windows\KrizciKrozci.exe
+E:\TalentJourney\KrizciKrozci\KrizciKrozci\bin\Debug\net5.0-windows\KrizciKrozci.deps.json
+E:\TalentJourney\KrizciKrozci\KrizciKrozci\bin\Debug\net5.0-windows\KrizciKrozci.runtimeconfig.json
+E:\TalentJourney\KrizciKrozci\KrizciKrozci\bin\Debug\net5.0-windows\KrizciKrozci.runtimeconfig.dev.json
+E:\TalentJourney\KrizciKrozci\KrizciKrozci\bin\Debug\net5.0-windows\KrizciKrozci.dll
+E:\TalentJourney\KrizciKrozci\KrizciKrozci\bin\Debug\net5.0-windows\ref\KrizciKrozci.dll
+E:\TalentJourney\KrizciKrozci\KrizciKrozci\bin\Debug\net5.0-windows\KrizciKrozci.pdb
+E:\TalentJourney\KrizciKrozci\KrizciKrozci\obj\Debug\net5.0-windows\KrizciKrozci.csproj.AssemblyReference.cache
+E:\TalentJourney\KrizciKrozci\KrizciKrozci\obj\Debug\net5.0-windows\KrizciKrozci.Form1.resources
+E:\TalentJourney\KrizciKrozci\KrizciKrozci\obj\Debug\net5.0-windows\KrizciKrozci.csproj.GenerateResource.cache
+E:\TalentJourney\KrizciKrozci\KrizciKrozci\obj\Debug\net5.0-windows\KrizciKrozci.GeneratedMSBuildEditorConfig.editorconfig
+E:\TalentJourney\KrizciKrozci\KrizciKrozci\obj\Debug\net5.0-windows\KrizciKrozci.AssemblyInfoInputs.cache
+E:\TalentJourney\KrizciKrozci\KrizciKrozci\obj\Debug\net5.0-windows\KrizciKrozci.AssemblyInfo.cs
+E:\TalentJourney\KrizciKrozci\KrizciKrozci\obj\Debug\net5.0-windows\KrizciKrozci.csproj.CoreCompileInputs.cache
+E:\TalentJourney\KrizciKrozci\KrizciKrozci\obj\Debug\net5.0-windows\KrizciKrozci.dll
+E:\TalentJourney\KrizciKrozci\KrizciKrozci\obj\Debug\net5.0-windows\ref\KrizciKrozci.dll
+E:\TalentJourney\KrizciKrozci\KrizciKrozci\obj\Debug\net5.0-windows\KrizciKrozci.pdb
+E:\TalentJourney\KrizciKrozci\KrizciKrozci\obj\Debug\net5.0-windows\KrizciKrozci.genruntimeconfig.cache

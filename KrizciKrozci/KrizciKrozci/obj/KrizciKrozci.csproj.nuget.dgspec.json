@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\TalentJourney\\19.10.2021\\KrizciKrozci\\KrizciKrozci\\KrizciKrozci.csproj": {}
+  },
+  "projects": {
+    "E:\\TalentJourney\\19.10.2021\\KrizciKrozci\\KrizciKrozci\\KrizciKrozci.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\TalentJourney\\19.10.2021\\KrizciKrozci\\KrizciKrozci\\KrizciKrozci.csproj",
+        "projectName": "KrizciKrozci",
+        "projectPath": "E:\\TalentJourney\\19.10.2021\\KrizciKrozci\\KrizciKrozci\\KrizciKrozci.csproj",
+        "packagesPath": "C:\\Users\\barbara\\.nuget\\packages\\",
+        "outputPath": "E:\\TalentJourney\\19.10.2021\\KrizciKrozci\\KrizciKrozci\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\barbara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\ASP.NET MVC - EJ2\\17.2.0.34\\NuGetPackages": {},
+          "E:\\Barbara\\Cona\\AdminLTE-2.4.2\\build": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
